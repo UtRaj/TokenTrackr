@@ -1,10 +1,10 @@
-# 🚀 TokenTrackr
+# 🚀 **TokenTrackr**
 
 **TokenTrackr** is a powerful and responsive cryptocurrency dashboard that provides users with real-time data, dynamic charts, and insights into the crypto market. Easily visualize trends, track prices and analyze coins on the go!
 
 
 
-## ✨ Features
+## ✨ **Features**
 
 - 📈 **Interactive Data Visualizations** using Chart.js  
 
@@ -26,7 +26,7 @@
 
 
 
-## 🛠️ Built With
+## 🛠️ **Built With**
 
 - **ReactJS**
 
@@ -42,7 +42,7 @@
 
 
 
-## ⚙️ Getting Started Locally
+## ⚙️ **Getting Started Locally**
 
 To run **TokenTrackr** on your local machine, follow these steps:
 
@@ -80,11 +80,11 @@ Then open your browser and go to:
 http://localhost:3000
 
 
-🙌 Acknowledgements
+## 🙌 **Acknowledgements**
 
 Thanks to CoinGecko API for providing free crypto market data.
 
 UI inspired by modern crypto dashboards & data visualization tools.
 
-⭐ Star this project if you like it!
+**⭐ Star this project if you like it!**
 
